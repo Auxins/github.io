@@ -6,13 +6,14 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-This is a test file from the rmarkdown example in Rstudio.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 # R Markdown
+
+This is a test file from the rmarkdown example in Rstudio.
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
